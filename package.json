@@ -4,10 +4,16 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "fakeBackend": "json-server --watch db/db.json"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
     "core-js": "^3.6.5",
+    "json": "^11.0.0",
+    "json-server": "^0.17.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
