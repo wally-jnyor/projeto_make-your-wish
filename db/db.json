@@ -65,36 +65,33 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
   "burgers": [
     {
-      "nome": "pidgey",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "charmander",
-      "carne": "Veggie burger",
+      "id": "277c",
+      "nome": "test burger",
+      "carne": "Alcatra",
       "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Em produção",
-      "id": 2
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado"
     }
   ]
 }
