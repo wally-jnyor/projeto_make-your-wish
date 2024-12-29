@@ -1,6 +1,6 @@
 <template>
     <div id="main-banner">
-        <h1>place your order</h1>
+        <h1>Place your order</h1>
     </div>
 </template>
 
