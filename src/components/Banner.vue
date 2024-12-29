@@ -1,6 +1,6 @@
 <template>
     <div id="main-banner">
-        <h1>Make Your Wish</h1>
+        <h1>place your order</h1>
     </div>
 </template>
 

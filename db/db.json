@@ -79,19 +79,15 @@
   ],
   "burgers": [
     {
-      "id": "277c",
-      "nome": "test burger",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "nome": "Walecy",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Pepino",
-        "Cheddar",
-        "Tomate"
+        "Tomate",
+        "Pepino"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado",
+      "id": "EG68h21"
     }
   ]
 }
