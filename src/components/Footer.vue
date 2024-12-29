@@ -1,6 +1,6 @@
 <template>
     <footer id="footer">
-        <p>Make your wish &copy; 2021</p>
+        <p>Place your order &copy; 2024</p>
     </footer>
 </template>
 
